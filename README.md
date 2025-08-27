@@ -11,7 +11,7 @@ A web application for making predictions using a machine learning model.
 ## Live Demo
 
 You can try out the app here:  
-[Diabetes Predictor Web App](https://diabetes-predictor-li8h.onrender.com)
+[Diabetes Predictor Web App](https://kingsley-ossai-app.onrender.com/)
 
 
 ## Features
